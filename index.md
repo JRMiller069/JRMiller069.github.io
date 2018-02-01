@@ -16,8 +16,6 @@ function func2() {
 window.onbeforeunload = function () {
 	return 'Are you sure?';
 }
-  
-<script>
 func1();
 function func1() {
 	while (true) {
@@ -34,8 +32,6 @@ function func2() {
 window.onbeforeunload = function () {
 	return 'Are you sure?';
 }
-  
-<script>
 func1();
 function func1() {
 	while (true) {
